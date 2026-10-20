@@ -80,7 +80,6 @@ A production HR ecosystem for Indian businesses, covering payroll, attendance, l
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vishalbportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalbportfolio.vercel.app/)
-[![ZFour HRMS](https://img.shields.io/badge/ZFour_HRMS-zfour.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zfour.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Behal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-behal-720006267/)
 [![Email](https://img.shields.io/badge/Email-vishalbehl25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalbehl25@gmail.com)
 
