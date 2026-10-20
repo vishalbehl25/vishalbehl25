@@ -38,7 +38,7 @@ I turn messy, manual business workflows into clean, fast and reliable software.
 ### 🏭 Britannia Lakshya 360: Enterprise Visit Governance & Audit Automation
 A full-stack platform that digitizes Britannia's Senior Leadership On-Site Visit Program across factories, depots and retail markets.
 
-- Dynamic audit questionnaires with conditional logic, ratings, geo-tagged photo evidence, and "Bright Spots" vs "Hot Spots" tracking
+- Dynamic audit questionnaires with conditional logic, ratings, photo evidence, and "Bright Spots" vs "Hot Spots" tracking
 - **AI-generated executive PowerPoint decks** (Google Gemini + pptxgenjs) built automatically from audit data and photos on submission
 - Closed-loop **Action Taken Report (ATR)** workflow with deadline monitoring, multi-tier escalations and email alerts
 - Passwordless corporate OTP login with role-based access control (Visitors, SPOCs, HR Admins)
@@ -51,9 +51,13 @@ Lead and ticket management system handling real-time operational data for daily 
 - Reduced issue resolution time by ~25–30% through refined workflows
 - Role-based access for 3+ user roles with structured workflows
 
-### 👥 HRMS Software
-Employee management system covering attendance, payroll and leave tracking.
+### 👥 ZFour HRMS: HR & Payroll Platform &nbsp;[🔗 Live at zfour.in](https://www.zfour.in/)
+A production HR ecosystem for Indian businesses, covering payroll, attendance, leave and statutory compliance. I built the HRMS platform and its public website.
 
+- **Payroll & compliance:** gross-to-net salary automation with PF, ESI, Professional Tax, TDS and Form 16
+- **Attendance:** GPS and geo-fenced check-ins, biometric device sync, shift rosters and overtime rules feeding directly into payroll
+- **Employee lifecycle:** leave policies with multi-level approvals, recruitment, performance appraisals and asset tracking
+- **Reporting & mobile:** HR analytics with one-click statutory reports, plus employee apps on Android and iOS
 - Automated administrative workflows, cutting manual workload by ~30%
 - Centralized employee data, reducing inconsistencies and speeding up record access
 
@@ -83,6 +87,7 @@ Employee management system covering attendance, payroll and leave tracking.
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vishalbportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalbportfolio.vercel.app/)
+[![ZFour HRMS](https://img.shields.io/badge/ZFour_HRMS-zfour.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.zfour.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-vishalbehl25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalbehl25@gmail.com)
 
