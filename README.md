@@ -75,19 +75,10 @@ A production HR ecosystem for Indian businesses, covering payroll, attendance, l
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalbehl25&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalbehl25&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vishalbportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-behal-720006267/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishalbportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)
+[![LinkedIn](https://www.linkedin.com/in/vishal-behal-720006267/)
 [![Email](https://img.shields.io/badge/Email-vishalbehl25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalbehl25@gmail.com)
 
 > 💬 Open to full-stack opportunities, freelance projects and interesting collaborations.
