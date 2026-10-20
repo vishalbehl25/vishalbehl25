@@ -26,7 +26,7 @@ I turn messy, manual business workflows into clean, fast and reliable software.
 
 | Area | Skills |
 |------|--------|
-| **Frontend** | React.js, React 19, TypeScript, JavaScript (ES6+), Vite, Tailwind CSS, Bootstrap, jQuery, GSAP, HTML5, CSS3 |
+| **Frontend** | React.js, TypeScript, JavaScript (ES6+), Vite, Tailwind CSS, Bootstrap, jQuery, GSAP, HTML5, CSS3 |
 | **Backend** | Node.js, Express, PHP, Laravel, REST API development, MVC architecture |
 | **Database** | PostgreSQL, MySQL, database design, query optimization |
 | **Tools** | Git, GitHub, Postman, Nodemailer, Google Gemini API, pptxgenjs |
