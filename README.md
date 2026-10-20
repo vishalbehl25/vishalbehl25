@@ -45,6 +45,14 @@ A full-stack platform that digitizes Britannia's Senior Leadership On-Site Visit
 
 **Stack:** React 19 · TypeScript · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · Gemini API · pptxgenjs · Nodemailer
 
+🥣 Britannia Nutrition Foundation Website  🔗 Live site
+
+The official website of Britannia Nutrition Foundation (BNF), a nonprofit fighting malnutrition across India since 2010. I developed the site end to end.
+
+Responsive, content-rich pages covering the foundation's mission, programmes and impact: Anganwadi nutrition, school-children health and community well-being
+Visual storytelling with hero sliders, optimized WebP imagery, and presentation of its Detect, Treat, Prevent and Sustain approach
+Contact and enquiry section, privacy policy and disclaimer pages, built for a national audience on mobile and desktop
+
 ### 📊 CRM Software
 Lead and ticket management system handling real-time operational data for daily business use.
 
@@ -72,10 +80,6 @@ A production HR ecosystem for Indian businesses, covering payroll, attendance, l
 - 🧩 Built reusable modules and components that cut development time for new features by **~25%**
 - 🚢 Shipped **5+ production applications** with a focus on stability and consistent UX
 - 🔐 Experience with RBAC, secure authentication, workflow automation and AI integration
-
----
-
-## 📫 Let's Connect
 
 ## 📫 Let's Connect
 
